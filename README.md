@@ -1,6 +1,7 @@
-# openCallHub
+# openCallHub(现在代码推不上来，看gitee)
 
 #### [github地址](https://github.com/sxwdmjy/openCallHub)
+#### [gitee地址](https://gitee.com/sxwdmjy/openCallHub)
 
 #### 在线收集需求中。。。。。。。当前mrcp模块已经集成sip和mrcpV2协议，意在方便对接各大厂商的语音服务，待完善，有能力者可提交PR共同完善
 
